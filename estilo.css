@@ -1,0 +1,17 @@
+p,li {
+   color:white;
+   }
+
+
+h1,h2,h3{
+				color: red;
+}
+
+
+					body {		
+				background : url(3475.gif) #ccc no-repeat ;
+				
+				background-size:cover ;
+				background-position: center center;
+				background-attachment:fixed;
+}
